@@ -121,99 +121,7 @@ const developer = {
 
 ---
 
-## ⚡ Live Coding Activity
 
-<div align="center">
-  <img src="https://wakatime.com/badge/user/youruserid.svg" alt="Total time coded since Jan 2024" />
-</div>
-
-<!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 📦 Used in GitHub's Storage 
- > 
-> 🏆 Contributed to projects this year
- > 
-> 📜 Public Repositories 
- > 
-> 🔑 Private Repositories 
-
-**I'm an Early 🐤** 
-
-```text
-🌅 Morning    ████████░░░░░░░░░░░░░   35.24% 
-🌆 Daytime    ██████████░░░░░░░░░░░   42.13% 
-🌃 Evening    ████░░░░░░░░░░░░░░░░░   18.69% 
-🌙 Night      ████░░░░░░░░░░░░░░░░░   16.94%
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript   ████████████░░░░░░░░░   45.24% 
-Python       ██████░░░░░░░░░░░░░░░   22.13% 
-Java         ████░░░░░░░░░░░░░░░░░   15.69% 
-PHP          ███░░░░░░░░░░░░░░░░░░   12.94%
-CSS          ██░░░░░░░░░░░░░░░░░░░    8.00%
-```
-<!--END_SECTION:waka-->
-
----
-
-## 🎯 Current Focus
-
-- 🔭 I'm currently working on **[Project Name]**
-- 🌱 I'm currently learning **AI/Machine Learning**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Web Development, UI/UX Design**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **I love coffee and coding at night ☕**
-
----
-
-## 🌟 Featured Projects (Auto-Updated)
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Dickaaardiansyah&repo=project1&theme=tokyonight&show_owner=true)](https://github.com/Dickaaardiansyah/project1)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Dickaaardiansyah&repo=project2&theme=tokyonight&show_owner=true)](https://github.com/Dickaaardiansyah/project2)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Dickaaardiansyah&repo=project3&theme=tokyonight&show_owner=true)](https://github.com/Dickaaardiansyah/project3)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Dickaaardiansyah&repo=project4&theme=tokyonight&show_owner=true)](https://github.com/Dickaaardiansyah/project4)
-
-</div>
-
----
-
-## 📈 Real-Time Metrics & WakaTime Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Dickaaardiansyah&theme=tokyonight&layout=compact&range=last_7_days" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Dickaaardiansyah&theme=tokyonight&custom_title=Languages%20This%20Week&langs_count=5" />
-</div>
-
-### 📊 This Week's Development Breakdown
-<!--START_SECTION:waka-->
-```text
-💬 Programming Languages:
-JavaScript   8 hrs 35 mins   █████████████░░░░░░░░   54.2%
-Python       3 hrs 22 mins   █████░░░░░░░░░░░░░░░░   21.3%
-Java         2 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░   14.2%
-HTML/CSS     1 hr 38 mins    ██░░░░░░░░░░░░░░░░░░░   10.3%
-
-💻 Operating Systems:
-Windows      12 hrs 45 mins  ████████████████████░   80.5%
-Linux        3 hrs 5 mins    ████░░░░░░░░░░░░░░░░░   19.5%
-
-📱 Applications:
-VS Code      14 hrs 23 mins  ██████████████████████   90.7%
-Chrome       1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░    9.3%
-```
-<!--END_SECTION:waka-->
-
----
 
 ## 🤝 Connect with Me
 
@@ -228,7 +136,7 @@ Chrome       1 hr 27 mins    ██░░░░░░░░░░░░░░░
 </div>
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=youruserid&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=184395040&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false">
 </div>
 
 ---
