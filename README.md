@@ -24,8 +24,8 @@
 
 ```javascript
 const developer = {
-    name: "Nama Anda",
-    location: "Indonesia 🇮🇩",
+    name: "Dicka Ardiansyah",
+    location: "Jawa Timur, Indonesia 🇮🇩",
     code: ["JavaScript", "Python", "Java", "PHP"],
     askMeAbout: ["web dev", "tech", "app dev", "design"],
     technologies: {
@@ -109,11 +109,7 @@ const developer = {
 
 ---
 
-## 🏆 Real-Time GitHub Trophies & Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dickaaardiansyah&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
-</div>
+## 🏆 Real-Time GitHub Achievements
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dickaaardiansyah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show_owner=true" />
@@ -133,33 +129,6 @@ const developer = {
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-</div>
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=184395040&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false">
-</div>
-
----
-
-## 📚 Latest Blog Posts & Articles
-<!-- BLOG-POST-LIST:START -->
-- [Article Title 1](https://your-blog.com/article1)
-- [Article Title 2](https://your-blog.com/article2)
-- [Article Title 3](https://your-blog.com/article3)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🎯 2024 Goals & Real-Time Progress
-
-- ✅ **Learn 3 new programming languages** (Progress: 2/3)
-- 🔄 **Contribute to 50 open source projects** (Progress: 32/50)
-- ✅ **Build 10 full-stack applications** (Progress: 12/10 - Completed!)
-- 🔄 **Write 24 technical blog posts** (Progress: 18/24)
-- 🔄 **Gain 1000 GitHub followers** (Current: ![Followers](https://img.shields.io/github/followers/Dickaaardiansyah?style=social))
-
-<div align="center">
-  <img src="https://progress-bar.dev/75?title=2024%20Goals%20Progress&width=400&color=babaca&suffix=%"/>
 </div>
 
 ---
