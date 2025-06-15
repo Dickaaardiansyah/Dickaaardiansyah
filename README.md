@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AGE-25-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/AGE-20-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/FOCUS-Full%20Stack%20Development-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/LIVES-Indonesia-success?style=flat-square" />
   <img src="https://img.shields.io/badge/LANGUAGES-English%20%26%20Indonesia-brightgreen?style=flat-square" />
