@@ -1,13 +1,14 @@
-# Hi there, I'm [Nama Anda] 👋
+# Hi there, I'm Dickaaardiansyah
+ 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Open+Source+Contributor+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%93%9A;Welcome+to+my+GitHub+Profile!+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=blue&label=FOLLOWERS" />
-  <img src="https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=yellow&label=TOTAL+STARS" />
+  <img src="https://komarev.com/ghpvc/?username=Dickaaardiansyah&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/Dickaaardiansyah?style=for-the-badge&color=blue&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/stars/Dickaaardiansyah?style=for-the-badge&color=yellow&label=TOTAL+STARS" />
 </p>
 
 <p align="center">
@@ -80,30 +81,30 @@ const developer = {
 ## 📊 Real-Time GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dickaaardiansyah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dickaaardiansyah&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&cache_seconds=86400" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dickaaardiansyah&theme=tokyonight&cache_seconds=86400" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&area=true&cache_seconds=3600" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dickaaardiansyah&theme=tokyo-night&hide_border=true&area=true&cache_seconds=3600" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dickaaardiansyah&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yourusername&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yourusername&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dickaaardiansyah&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dickaaardiansyah&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yourusername&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yourusername&theme=tokyonight&utcOffset=7" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dickaaardiansyah&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dickaaardiansyah&theme=tokyonight&utcOffset=7" />
 </div>
 
 ---
@@ -111,11 +112,11 @@ const developer = {
 ## 🏆 Real-Time GitHub Trophies & Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dickaaardiansyah&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show_owner=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dickaaardiansyah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show_owner=true" />
 </div>
 
 ---
@@ -174,10 +175,10 @@ CSS          ██░░░░░░░░░░░░░░░░░░░    
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight&show_owner=true)](https://github.com/yourusername/project1)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight&show_owner=true)](https://github.com/yourusername/project2)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project3&theme=tokyonight&show_owner=true)](https://github.com/yourusername/project3)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project4&theme=tokyonight&show_owner=true)](https://github.com/yourusername/project4)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Dickaaardiansyah&repo=project1&theme=tokyonight&show_owner=true)](https://github.com/Dickaaardiansyah/project1)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Dickaaardiansyah&repo=project2&theme=tokyonight&show_owner=true)](https://github.com/Dickaaardiansyah/project2)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Dickaaardiansyah&repo=project3&theme=tokyonight&show_owner=true)](https://github.com/Dickaaardiansyah/project3)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Dickaaardiansyah&repo=project4&theme=tokyonight&show_owner=true)](https://github.com/Dickaaardiansyah/project4)
 
 </div>
 
@@ -186,11 +187,11 @@ CSS          ██░░░░░░░░░░░░░░░░░░░    
 ## 📈 Real-Time Metrics & WakaTime Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=tokyonight&layout=compact&range=last_7_days" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Dickaaardiansyah&theme=tokyonight&layout=compact&range=last_7_days" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=tokyonight&custom_title=Languages%20This%20Week&langs_count=5" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Dickaaardiansyah&theme=tokyonight&custom_title=Languages%20This%20Week&langs_count=5" />
 </div>
 
 ### 📊 This Week's Development Breakdown
@@ -247,7 +248,7 @@ Chrome       1 hr 27 mins    ██░░░░░░░░░░░░░░░
 - 🔄 **Contribute to 50 open source projects** (Progress: 32/50)
 - ✅ **Build 10 full-stack applications** (Progress: 12/10 - Completed!)
 - 🔄 **Write 24 technical blog posts** (Progress: 18/24)
-- 🔄 **Gain 1000 GitHub followers** (Current: ![Followers](https://img.shields.io/github/followers/yourusername?style=social))
+- 🔄 **Gain 1000 GitHub followers** (Current: ![Followers](https://img.shields.io/github/followers/Dickaaardiansyah?style=social))
 
 <div align="center">
   <img src="https://progress-bar.dev/75?title=2024%20Goals%20Progress&width=400&color=babaca&suffix=%"/>
